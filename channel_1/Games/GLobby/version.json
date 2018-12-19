@@ -1,0 +1,25 @@
+return {
+["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
+["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
+["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
+["version"] = "1.1.377",
+["packageSize"] = 11298,
+["date"] = "20181217",
+["depends"] = {
+10001,
+1001,
+},
+["newDetails"] = [[版本更新内容：
+1.金币场景进入高级场提示房间满人修复
+2.充值界面金币没有同步修复
+3.OPPO手机新手指引问题修复
+4.性别只显示一个
+5.击中鱼显示红色别人不显示调整
+6.从右边出的冰冻鱼位置调整
+7.自动开炮会出现卡顿修复
+8.创建牌桌界面调整
+9.手动点击锁定优化
+10.成员权限变修复
+]],
+["assets"] = {} 
+}

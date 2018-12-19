@@ -1,0 +1,104 @@
+
+xueshengbeimian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 249, 157
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+baodai
+  rotate: false
+  xy: 438, 189
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+baodai1
+  rotate: false
+  xy: 2, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+baodai2
+  rotate: false
+  xy: 462, 205
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 61
+  size: 143, 188
+  orig: 143, 188
+  offset: 0, 0
+  index: -1
+yi
+  rotate: false
+  xy: 147, 121
+  size: 100, 128
+  orig: 100, 128
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 2, 17
+  size: 42, 131
+  orig: 42, 131
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 338, 132
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 249, 122
+  size: 33, 87
+  orig: 33, 87
+  offset: 0, 0
+  index: -1
+youtui 1
+  rotate: true
+  xy: 337, 163
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 337, 204
+  size: 45, 123
+  orig: 45, 123
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 374, 132
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 250, 82
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 147, 73
+  size: 46, 101
+  orig: 46, 101
+  offset: 0, 0
+  index: -1
