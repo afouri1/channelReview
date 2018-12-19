@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.1.377",
-["packageSize"] = 676,
-["date"] = "20181217",
+["version"] = "1.1.380",
+["packageSize"] = 682,
+["date"] = "20181219",
 ["depends"] = {
 10001,
 },
@@ -17,7 +17,7 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/FileDownloader.lua",
-	["u_md5"]="5ecffd0e4a5c17362e8e00a1913af5e9",
+	["u_md5"]="e34ed47a33c6e4f59ad5135b070e339e",
 	["u_size"]=7.91,
 	},
 {
@@ -36,24 +36,34 @@ return {
 	["u_size"]=6.4,
 	},
 {
+	["u_name"]="Games/GUpdate/UGetChannelInfo.lua",
+	["u_md5"]="476e6b43683d1078f3247db44b7807b3",
+	["u_size"]=4.01,
+	},
+{
 	["u_name"]="Games/GUpdate/UManifest.lua",
 	["u_md5"]="641a54556a8118568be778e320cea31b",
 	["u_size"]=9.2,
 	},
 {
 	["u_name"]="Games/GUpdate/UUpdate.lua",
-	["u_md5"]="f30642f25cdfa66a1b7a9d232fac97c7",
-	["u_size"]=12.33,
+	["u_md5"]="7c21315adaba947a500923e25eb0d4a3",
+	["u_size"]=12.48,
 	},
 {
 	["u_name"]="Games/GUpdate/UUpdateView.lua",
-	["u_md5"]="13e97ceb6d743b32bd4041994c7de654",
-	["u_size"]=16.06,
+	["u_md5"]="8f5c4fa598d1cdcfc682d9242b126177",
+	["u_size"]=16.64,
 	},
 {
 	["u_name"]="Games/GUpdate/UpdateMain.lua",
-	["u_md5"]="0c39eb73244fcb77c40e05a6d612edc9",
-	["u_size"]=6.34,
+	["u_md5"]="7c29e9b16a3a5845c2de469a762bf175",
+	["u_size"]=6.89,
+	},
+{
+	["u_name"]="Games/GUpdate/channelConfig.json",
+	["u_md5"]="6ecb04044e74dd63bf744194015a5ce1",
+	["u_size"]=0.36,
 	},
 {
 	["u_name"]="Games/GUpdate/res/Map_1.jpg",
