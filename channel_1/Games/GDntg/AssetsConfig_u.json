@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.382",
-["packageSize"] = 38088,
-["date"] = "20181219",
+["version"] = "1.1.396",
+["packageSize"] = 36117,
+["date"] = "20181224",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
@@ -484,276 +484,6 @@ return {
 	["u_name"]="Games/GDntg/res/game/effect/zhuanquanguang.png",
 	["u_md5"]="a6f3e8378f2034e7248e9affe85c3ebc",
 	["u_size"]=36.48,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni001.plist",
-	["u_md5"]="5f9115efbfafc47086ebe48466f44e04",
-	["u_size"]=30.29,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni001.png",
-	["u_md5"]="3dc6b5f579f8d9bda0ba48d00dea31c2",
-	["u_size"]=16.24,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni002.plist",
-	["u_md5"]="eb6b625699511b9b0dc0c7f3bef1ff49",
-	["u_size"]=53.16,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni002.png",
-	["u_md5"]="3ccc46899f1e9345ee7060f4b2ee8354",
-	["u_size"]=22.43,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni003.plist",
-	["u_md5"]="8d25294c3f9df143aa44294537e2ce45",
-	["u_size"]=17.25,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni003.png",
-	["u_md5"]="35bfb178b9ce6f72a369f91f2d0cf1a8",
-	["u_size"]=17.45,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni004.plist",
-	["u_md5"]="bd38d7de408034d951ccf211c1db4fc3",
-	["u_size"]=20.52,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni004.png",
-	["u_md5"]="0f0df18dc6559aaa077a21347285f143",
-	["u_size"]=23.03,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni005.plist",
-	["u_md5"]="d686c0027b5507b2345f9c424b5389fe",
-	["u_size"]=24.47,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni005.png",
-	["u_md5"]="34333fb55d44cc9ede641477ed03f9c9",
-	["u_size"]=37.66,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni006.plist",
-	["u_md5"]="e5b9272392e18fbb0212c4dc0f8ff884",
-	["u_size"]=16.25,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni006.png",
-	["u_md5"]="a1dc087ea09c098be30657b773308ea9",
-	["u_size"]=27.12,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni007.plist",
-	["u_md5"]="f0140214a8c0191d9e4fe1f224e916d6",
-	["u_size"]=20.52,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni007.png",
-	["u_md5"]="947eeffdf744b9f9492691c84439f1e5",
-	["u_size"]=43.88,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni008.plist",
-	["u_md5"]="f6d400135af18d8e05a5af32e529e132",
-	["u_size"]=14.12,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni008.png",
-	["u_md5"]="669f504aa15bda5bac4984fd95c4d35f",
-	["u_size"]=32.37,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni009.plist",
-	["u_md5"]="801a68ab5dcb4a75c2456ab9f88a2ce1",
-	["u_size"]=17.36,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni009.png",
-	["u_md5"]="17d15c4076f4cbd6a6e0bced1426cadc",
-	["u_size"]=35.28,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni010.plist",
-	["u_md5"]="f1b3f8c024ae3a32e5ee6f6b09f64ce1",
-	["u_size"]=10.75,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni010.png",
-	["u_md5"]="eb174fff9e7cd543cd6c06e738347e6c",
-	["u_size"]=27.08,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni011.plist",
-	["u_md5"]="a26bbab742893fe08db657634b4a705a",
-	["u_size"]=17.96,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni011.png",
-	["u_md5"]="90153bc600fdc586d880414481eea1c8",
-	["u_size"]=63.93,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni012.plist",
-	["u_md5"]="8c233e2c93c8d09a681de5032076ce97",
-	["u_size"]=5.2,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni012.png",
-	["u_md5"]="f3b934ee3cb2b8d242fa5fd71564bddf",
-	["u_size"]=16.59,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni013.plist",
-	["u_md5"]="4d4e048193e99d10da33bb71ec4bea8a",
-	["u_size"]=10.56,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni013.png",
-	["u_md5"]="1e6f5cc2f022f2762c49ce7547f868af",
-	["u_size"]=44.79,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni014.plist",
-	["u_md5"]="04741b3dde6cb9b0269ebfce44dd3aed",
-	["u_size"]=4.13,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni014.png",
-	["u_md5"]="2a69eff50fac479c96086b10d0a477ae",
-	["u_size"]=18.63,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni015.plist",
-	["u_md5"]="a273083ec13bd067b8d2fe1fd959e917",
-	["u_size"]=7.56,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni015.png",
-	["u_md5"]="3690b9c60cbf65d8cbc0f21ac7f68fb6",
-	["u_size"]=69.19,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni016.plist",
-	["u_md5"]="f7a5e47ba2ab12a254c42bbc9806a285",
-	["u_size"]=8.41,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni016.png",
-	["u_md5"]="a4019b27229368da99083b4803ff8dea",
-	["u_size"]=48.02,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni017.plist",
-	["u_md5"]="b88e201a592567366969e15154c7fc14",
-	["u_size"]=7.35,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni017.png",
-	["u_md5"]="a3183a416b3b4c32cf746c0c2fa02927",
-	["u_size"]=44.92,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni018.plist",
-	["u_md5"]="fb982cd2f432d778e1b1ff905d2e5af1",
-	["u_size"]=5.88,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni018.png",
-	["u_md5"]="82445549a7deb907ed0f02275c7647c4",
-	["u_size"]=87.7,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni019.plist",
-	["u_md5"]="77a8562a64d0c0b1ba0ebc07a958c683",
-	["u_size"]=14.85,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni019.png",
-	["u_md5"]="b16a0115f15577c2b11dffa24df7a789",
-	["u_size"]=79.62,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni020.plist",
-	["u_md5"]="b51be5d1b0161a8cb15a89a88fb09c3b",
-	["u_size"]=4.79,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni020.png",
-	["u_md5"]="96b566526dd5e07fcc19e85c9c7ab4e4",
-	["u_size"]=35.85,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni021.plist",
-	["u_md5"]="0552028b0f5fefe4301b033d792f402b",
-	["u_size"]=6.44,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni021.png",
-	["u_md5"]="f1f8e612cf70b45064d4db21d8975f24",
-	["u_size"]=101.29,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni022.plist",
-	["u_md5"]="7a7daf4f27cdd5cdd6aed4d5d8e1e9b8",
-	["u_size"]=7.56,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni022.png",
-	["u_md5"]="257bf5e3e8cb1bcfb6fbc41b4e9a85a3",
-	["u_size"]=80.33,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni023.plist",
-	["u_md5"]="0dcf13177a16017e97884a3c255ef125",
-	["u_size"]=13.79,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni023.png",
-	["u_md5"]="26120313c0c819595043534c999e51f4",
-	["u_size"]=164.03,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni024.plist",
-	["u_md5"]="24ac35f3c1ad91c1e8d1a18997795f6e",
-	["u_size"]=7.56,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni024.png",
-	["u_md5"]="7b68f46dcf5ee076ca8795e09592b25f",
-	["u_size"]=124.88,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni025.plist",
-	["u_md5"]="2bc4066b121a3fe20fb765715bd7eef8",
-	["u_size"]=10.56,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni025.png",
-	["u_md5"]="a054bd56b3f3e367dac625b6772f46a2",
-	["u_size"]=197.58,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni026.plist",
-	["u_md5"]="ddba1adcd44f9f2a08eb30311c942c62",
-	["u_size"]=10.56,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni026.png",
-	["u_md5"]="070fb7d26c5b3316c85191def1ff22a3",
-	["u_size"]=131.38,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni027.plist",
-	["u_md5"]="57d22cf5356f199f06e43fa74aab5e45",
-	["u_size"]=5.34,
-	},
-{
-	["u_name"]="Games/GDntg/res/game/fishAni/fishAni027.png",
-	["u_md5"]="b0428d584d1dacc2726de5cb700f207c",
-	["u_size"]=185.12,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/fishAni/fishDead001.plist",
@@ -2447,8 +2177,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/load/dntgtest_Loading_bg.jpg",
-	["u_md5"]="00799a604bf8c47c224479d044edcd06",
-	["u_size"]=167.11,
+	["u_md5"]="5e03e2fe1ab821ec2cc07235980280dd",
+	["u_size"]=347.81,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/load/loadingBg.png",
@@ -3681,11 +3411,6 @@ return {
 	["u_size"]=9.83,
 	},
 {
-	["u_name"]="Games/GDntg/src/Configs/commodity.lua",
-	["u_md5"]="0cc303e4b320689469945a5cae9656d7",
-	["u_size"]=1.27,
-	},
-{
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
 	["u_md5"]="66c9714d523306003e7e4f382415307f",
 	["u_size"]=0.43,
@@ -3717,7 +3442,7 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="708caa2171c08cc1d83bd3b955f1eff0",
+	["u_md5"]="a7a72b08d4782d382255fedcbf710ab3",
 	["u_size"]=48.97,
 	},
 {
@@ -3997,8 +3722,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLoadingGame.lua",
-	["u_md5"]="5d3c5bde8aaafa33100f67437040fc66",
-	["u_size"]=5.03,
+	["u_md5"]="6635411f3d0a27b332ddaf53339ef60f",
+	["u_size"]=5.05,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GLogic.lua",
