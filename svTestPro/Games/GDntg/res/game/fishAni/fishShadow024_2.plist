@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>fishShadow02422.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{474,345}</string>
+                <key>spriteSourceSize</key>
+                <string>{474,345}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{474,345}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>fishShadow024_2.png</string>
+            <key>size</key>
+            <string>{474,345}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:03e64df334d291fe7933428e65f3b5e0:5e138202e43891279026d7d7e7d10e19:f9cb562e4b175a69f5905fd1d7445200$</string>
+            <key>textureFileName</key>
+            <string>fishShadow024_2.png</string>
+        </dict>
+    </dict>
+</plist>
