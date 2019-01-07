@@ -4,33 +4,63 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>jingubang05.png</key>
+            <key>jingubang09.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{995,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{995,720}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1280,720}}</string>
+                <string>{{0,0},{995,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>jingubang06.png</key>
+            <key>jingubang10.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{995,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{995,720}</string>
                 <key>textureRect</key>
-                <string>{{0,720},{1280,720}}</string>
+                <string>{{995,0},{995,720}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>jingubang11.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{995,720}</string>
+                <key>spriteSourceSize</key>
+                <string>{995,720}</string>
+                <key>textureRect</key>
+                <string>{{0,720},{995,720}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>jingubang12.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{995,720}</string>
+                <key>spriteSourceSize</key>
+                <string>{995,720}</string>
+                <key>textureRect</key>
+                <string>{{995,720},{995,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>jingubang_3.png</string>
             <key>size</key>
-            <string>{1280,1440}</string>
+            <string>{1990,1440}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:07c23b922356d6fc0ee7ce2d641ef6df:b5e5249f7457213785bd863dd2b3ccf6:0f2fc657d16760c2f77ce3d10bd7eae7$</string>
+            <string>$TexturePacker:SmartUpdate:6c843b79c4bc1320830760fd3f2ee56b:45b1a2e982b0274286dc473a94a8cf8e:0f2fc657d16760c2f77ce3d10bd7eae7$</string>
             <key>textureFileName</key>
             <string>jingubang_3.png</string>
         </dict>

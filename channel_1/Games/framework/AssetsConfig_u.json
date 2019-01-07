@@ -2,16 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/framework/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/framework/version.json",
-["version"] = "1.1.396",
-["packageSize"] = 731,
-["date"] = "20181224",
+["version"] = "1.1.432",
+["packageSize"] = 732,
+["date"] = "20190107",
 ["depends"] = {
 },
 ["newDetails"] = [[]],
 ["assets"] = {
 {
 	["u_name"]="Games/framework/audio.lua",
-	["u_md5"]="d8c18d548da40f59cfa20ce1c801fbe2",
+	["u_md5"]="d4cbbb3e04b9237107d9d915ec7ccb1a",
 	["u_size"]=14.94,
 	},
 {
@@ -336,8 +336,8 @@ return {
 	},
 {
 	["u_name"]="Games/framework/display.lua",
-	["u_md5"]="73fd7dd49a26f3f27f375ec8289ffc5b",
-	["u_size"]=58.23,
+	["u_md5"]="1640eb149ac22cb48edc388fe252828f",
+	["u_size"]=58.42,
 	},
 {
 	["u_name"]="Games/framework/filter.lua",

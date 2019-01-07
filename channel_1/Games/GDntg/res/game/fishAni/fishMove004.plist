@@ -94,66 +94,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fishMove00407.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{109,74}</string>
-                <key>spriteSourceSize</key>
-                <string>{109,74}</string>
-                <key>textureRect</key>
-                <string>{{0,444},{109,74}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishMove00408.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{109,74}</string>
-                <key>spriteSourceSize</key>
-                <string>{109,74}</string>
-                <key>textureRect</key>
-                <string>{{0,518},{109,74}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishMove00409.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{109,74}</string>
-                <key>spriteSourceSize</key>
-                <string>{109,74}</string>
-                <key>textureRect</key>
-                <string>{{0,592},{109,74}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishMove00410.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{109,74}</string>
-                <key>spriteSourceSize</key>
-                <string>{109,74}</string>
-                <key>textureRect</key>
-                <string>{{0,666},{109,74}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -166,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>fishMove004.png</string>
             <key>size</key>
-            <string>{109,740}</string>
+            <string>{109,444}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fd3e1a8f5f928049d0fbdb6e6fc14fbf:1adbe767ae3b73aa992b912682fda18d:11f2f145519d8fba2745d6ca41858fe2$</string>
+            <string>$TexturePacker:SmartUpdate:6b8e264658f3d5e0e294b208cba1ebfd:d9231f60619862be64802f5f3c252d66:11f2f145519d8fba2745d6ca41858fe2$</string>
             <key>textureFileName</key>
             <string>fishMove004.png</string>
         </dict>

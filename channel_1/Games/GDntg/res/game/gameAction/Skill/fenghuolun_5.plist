@@ -4,33 +4,33 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>fenghuolun09.png</key>
+            <key>fenghuolun13.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1280,720}}</string>
+                <string>{{0,0},{1168,678}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fenghuolun10.png</key>
+            <key>fenghuolun14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>textureRect</key>
-                <string>{{0,720},{1280,720}}</string>
+                <string>{{0,678},{1168,678}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +46,9 @@
             <key>realTextureFileName</key>
             <string>fenghuolun_5.png</string>
             <key>size</key>
-            <string>{1280,1440}</string>
+            <string>{1168,1356}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:61d5af9114b22c89fa4590de4738ef3f:36af01285ec019a61ca36615cd93a029:3c8080820f1f8bf07e8116f37cf09a32$</string>
+            <string>$TexturePacker:SmartUpdate:a91e98c55760c7b9237dee13a61ed278:846d295159d88d948dda7c9a5785ff5b:3c8080820f1f8bf07e8116f37cf09a32$</string>
             <key>textureFileName</key>
             <string>fenghuolun_5.png</string>
         </dict>

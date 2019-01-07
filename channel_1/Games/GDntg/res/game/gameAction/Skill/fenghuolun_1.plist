@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1280,720}}</string>
+                <string>{{0,0},{1168,678}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,26 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>textureRect</key>
-                <string>{{0,720},{1280,720}}</string>
+                <string>{{0,678},{1168,678}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fenghuolun03.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1168,678}</string>
+                <key>spriteSourceSize</key>
+                <string>{1168,678}</string>
+                <key>textureRect</key>
+                <string>{{0,1356},{1168,678}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +61,9 @@
             <key>realTextureFileName</key>
             <string>fenghuolun_1.png</string>
             <key>size</key>
-            <string>{1280,1440}</string>
+            <string>{1168,2034}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0dac87ffa7ca7d279ab2a28d563e901c:84f4cdd0d978382bb75878cf806ab7d0:0f410583d8cf4b08c5fbab99d0e29a0f$</string>
+            <string>$TexturePacker:SmartUpdate:58de1cdf1e023c0b6a7b4555db3fc5a0:0893a0ff95978f80a84b6f3a38936ec2:0f410583d8cf4b08c5fbab99d0e29a0f$</string>
             <key>textureFileName</key>
             <string>fenghuolun_1.png</string>
         </dict>

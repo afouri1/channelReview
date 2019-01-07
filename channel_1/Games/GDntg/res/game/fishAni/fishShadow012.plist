@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{0,174},{256,174}}</string>
+                <string>{{512,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{256,174},{256,174}}</string>
+                <string>{{768,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{0,348},{256,174}}</string>
+                <string>{{1024,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{256,348},{256,174}}</string>
+                <string>{{1280,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -105,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{0,522},{256,174}}</string>
+                <string>{{1536,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -120,67 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{256,174}</string>
                 <key>textureRect</key>
-                <string>{{256,522},{256,174}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishShadow01209.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{256,174}</string>
-                <key>spriteSourceSize</key>
-                <string>{256,174}</string>
-                <key>textureRect</key>
-                <string>{{0,696},{256,174}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishShadow01210.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{256,174}</string>
-                <key>spriteSourceSize</key>
-                <string>{256,174}</string>
-                <key>textureRect</key>
-                <string>{{256,696},{256,174}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishShadow01211.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{256,174}</string>
-                <key>spriteSourceSize</key>
-                <string>{256,174}</string>
-                <key>textureRect</key>
-                <string>{{0,870},{256,174}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishShadow01212.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{256,174}</string>
-                <key>spriteSourceSize</key>
-                <string>{256,174}</string>
-                <key>textureRect</key>
-                <string>{{256,870},{256,174}}</string>
+                <string>{{1792,0},{256,174}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -196,9 +136,9 @@
             <key>realTextureFileName</key>
             <string>fishShadow012.png</string>
             <key>size</key>
-            <string>{512,1044}</string>
+            <string>{2048,174}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:dc9e955ecddd6741caba9bc6d1ee5bdc:2b76571e557a139032c22085c28e4f78:b54fda6cf9c940c3cabdb16436d8d251$</string>
+            <string>$TexturePacker:SmartUpdate:4286cb1b2e93e74d5d17bf95eb5c5a07:24c6ffc1c8be95d678a1052f13723284:b54fda6cf9c940c3cabdb16436d8d251$</string>
             <key>textureFileName</key>
             <string>fishShadow012.png</string>
         </dict>

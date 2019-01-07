@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>spriteSourceSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1000,1000}}</string>
+                <string>{{0,0},{759,716}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>spriteSourceSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>textureRect</key>
-                <string>{{1000,0},{1000,1000}}</string>
+                <string>{{759,0},{759,716}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>spriteSourceSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>textureRect</key>
-                <string>{{0,1000},{1000,1000}}</string>
+                <string>{{0,716},{759,716}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>spriteSourceSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>textureRect</key>
-                <string>{{1000,1000},{1000,1000}}</string>
+                <string>{{759,716},{759,716}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -76,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>jindabaodian_2.png</string>
             <key>size</key>
-            <string>{2000,2000}</string>
+            <string>{1518,1432}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:27d5fe00224580b91877b5c2c99c5a0a:e20232b12e5739d9ebd28fbc335e28d4:a2e17cd3d536172cb93128790bf41f61$</string>
+            <string>$TexturePacker:SmartUpdate:5fee3d2ac287eb05663313f90076d69d:5e67835d62be49a10a0c7c57835b9257:a2e17cd3d536172cb93128790bf41f61$</string>
             <key>textureFileName</key>
             <string>jindabaodian_2.png</string>
         </dict>

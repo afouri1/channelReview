@@ -4,33 +4,18 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>jingubang07.png</key>
+            <key>jingubang13.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{995,720}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{995,720}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1280,720}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>jingubang08.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{1280,720}</string>
-                <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
-                <key>textureRect</key>
-                <string>{{0,720},{1280,720}}</string>
+                <string>{{0,0},{995,720}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +31,9 @@
             <key>realTextureFileName</key>
             <string>jingubang_4.png</string>
             <key>size</key>
-            <string>{1280,1440}</string>
+            <string>{995,720}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2a6235f6ad9d1c48d0813096f7f51720:bf171516db97d3912edfd208e72ff81a:e0ab157d65ceacf62decd96fb9ce623b$</string>
+            <string>$TexturePacker:SmartUpdate:ae816782abacf70abe1cd956f260086f:f5aac7f7d671ba48da15b8b71345d10d:e0ab157d65ceacf62decd96fb9ce623b$</string>
             <key>textureFileName</key>
             <string>jingubang_4.png</string>
         </dict>

@@ -4,33 +4,48 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>fenghuolun05.png</key>
+            <key>fenghuolun07.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1280,720}}</string>
+                <string>{{0,0},{1168,678}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fenghuolun06.png</key>
+            <key>fenghuolun08.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>spriteSourceSize</key>
-                <string>{1280,720}</string>
+                <string>{1168,678}</string>
                 <key>textureRect</key>
-                <string>{{0,720},{1280,720}}</string>
+                <string>{{0,678},{1168,678}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>fenghuolun09.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1168,678}</string>
+                <key>spriteSourceSize</key>
+                <string>{1168,678}</string>
+                <key>textureRect</key>
+                <string>{{0,1356},{1168,678}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +61,9 @@
             <key>realTextureFileName</key>
             <string>fenghuolun_3.png</string>
             <key>size</key>
-            <string>{1280,1440}</string>
+            <string>{1168,2034}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bf55fb098e60d4dd9519317e07839ce0:8caec7d1a3d3aec2b88d3abd08a13bf6:857ab4f164734d9f32a9ab06b91126bd$</string>
+            <string>$TexturePacker:SmartUpdate:2208220d3bebb4b145ac0452a24f9c5c:40c08c6e4ee7407548918bd62e144f59:857ab4f164734d9f32a9ab06b91126bd$</string>
             <key>textureFileName</key>
             <string>fenghuolun_3.png</string>
         </dict>

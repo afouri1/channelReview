@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{200,200}}</string>
+                <string>{{0,0},{174,164}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>textureRect</key>
-                <string>{{200,0},{200,200}}</string>
+                <string>{{0,164},{174,164}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>textureRect</key>
-                <string>{{400,0},{200,200}}</string>
+                <string>{{0,328},{174,164}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>textureRect</key>
-                <string>{{600,0},{200,200}}</string>
+                <string>{{0,492},{174,164}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>textureRect</key>
-                <string>{{800,0},{200,200}}</string>
+                <string>{{0,656},{174,164}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -86,11 +86,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,200}</string>
+                <string>{174,164}</string>
                 <key>textureRect</key>
-                <string>{{1000,0},{200,200}}</string>
+                <string>{{0,820},{174,164}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -106,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>jinxiaobaodian.png</string>
             <key>size</key>
-            <string>{1200,200}</string>
+            <string>{174,984}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0adbbc9444e7c2157ab060643c1b8a5c:a6bfd5de9cc7c98b84e3ebf2ef5a476f:ad7ffc689535617027bae2f7da2fe6b0$</string>
+            <string>$TexturePacker:SmartUpdate:da1da7551a5ce9ce66d2f9eaf4a1b595:dcea2406645a5033e3380340ece5d29b:ad7ffc689535617027bae2f7da2fe6b0$</string>
             <key>textureFileName</key>
             <string>jinxiaobaodian.png</string>
         </dict>

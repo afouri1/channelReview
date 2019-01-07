@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>spriteSourceSize</key>
-                <string>{1000,1000}</string>
+                <string>{759,716}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{1000,1000}}</string>
+                <string>{{0,0},{759,716}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -31,9 +31,9 @@
             <key>realTextureFileName</key>
             <string>jindabaodian_3.png</string>
             <key>size</key>
-            <string>{1000,1000}</string>
+            <string>{759,716}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7983273f6c6ad62b71b1f1b18b307893:6d7cf1fa2f6192d632378c55ea6e59d0:3a08cd8f59973d2e5d795e5aab8e9c41$</string>
+            <string>$TexturePacker:SmartUpdate:a0cbb40a1f6e3d5eee9bf2063ee59dd2:9dadc14601776f9ec7d67633eaf9bf5f:3a08cd8f59973d2e5d795e5aab8e9c41$</string>
             <key>textureFileName</key>
             <string>jindabaodian_3.png</string>
         </dict>
