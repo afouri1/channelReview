@@ -2,20 +2,19 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.434",
-["packageSize"] = 34865,
-["date"] = "20190107",
+["version"] = "1.1.439",
+["packageSize"] = 34866,
+["date"] = "20190108",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新鱼资源替换
-2.玩家定位修复
-3.鱼命中区域修复
-4.金币对应不上修复
-5.压后台图标点击没反应修复
-6.大厅图标点击无反应修复
-7.游戏内已知闪退修复
-8.已知bug修复，性能优化
+1.盈亏记录没有统计修复
+2.点击座位崩溃修复
+3.逐出渔厅提示非法操作修复
+4.兑换码添加
+5.成员管理界面排版修复
+6.金币场门槛修复
+7.已知大厅报错修复
 ]],
 ["assets"] = {
 {
@@ -3275,8 +3274,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GBulletView.lua",
-	["u_md5"]="943af33db082b152e4bfa84be9e207a1",
-	["u_size"]=12.66,
+	["u_md5"]="fe4a955c64df18352425faa3ec23e809",
+	["u_size"]=13.03,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishMediator.lua",
@@ -3335,8 +3334,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatMediator.lua",
-	["u_md5"]="bedfce19f3808bb6993bfa6ef787874d",
-	["u_size"]=8.84,
+	["u_md5"]="4e55e3b49161b3d8fa76597a66dd3bf0",
+	["u_size"]=9.37,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GConvertSeatView.lua",
@@ -3375,8 +3374,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="36a8d0f88b0198df9ae08f7a17a26b55",
-	["u_size"]=16.28,
+	["u_md5"]="61d8da39121cc4f92635ab2f624dd35c",
+	["u_size"]=16.46,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
