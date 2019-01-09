@@ -2,21 +2,21 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.439",
-["packageSize"] = 11820,
-["date"] = "20190108",
+["version"] = "1.1.449",
+["packageSize"] = 11829,
+["date"] = "20190109",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.盈亏记录没有统计修复
-2.点击座位崩溃修复
-3.逐出渔厅提示非法操作修复
-4.兑换码添加
-5.成员管理界面排版修复
-6.金币场门槛修复
-7.已知大厅报错修复
+1.成员管理界面优化
+2.新增体验码
+3.充值单位显示修复
+4.大厅崩溃修复
+5.游戏内闪退修复
+6.成员同一时间显示多条记录修复
+7.大厅及游戏内已知bug修复
 ]],
 ["assets"] = {} 
 }
