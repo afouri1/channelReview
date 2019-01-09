@@ -2,7 +2,7 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.449",
+["version"] = "1.1.450",
 ["packageSize"] = 11829,
 ["date"] = "20190109",
 ["depends"] = {
@@ -3931,8 +3931,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/recharge/GLobbyRechargeLayerView.lua",
-	["u_md5"]="7cff254670f2896b745e3da1022533d8",
-	["u_size"]=23.45,
+	["u_md5"]="18c4180af12c81c92bbee79d06d89ccd",
+	["u_size"]=23.46,
 	},
 {
 	["u_name"]="Games/GLobby/src/record/GLobbyRecordLayerItem.lua",
