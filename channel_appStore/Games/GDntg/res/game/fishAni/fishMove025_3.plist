@@ -64,36 +64,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>fishMove02517.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{963,590}</string>
-                <key>spriteSourceSize</key>
-                <string>{963,590}</string>
-                <key>textureRect</key>
-                <string>{{0,1180},{963,590}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>fishMove02518.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{963,590}</string>
-                <key>spriteSourceSize</key>
-                <string>{963,590}</string>
-                <key>textureRect</key>
-                <string>{{963,1180},{963,590}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -106,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>fishMove025_3.png</string>
             <key>size</key>
-            <string>{1926,1770}</string>
+            <string>{1926,1180}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0651d14a0bc33abdf2923beef4cef12c:41b8e7a7fb6b7d2a8d0d0608174ff90d:832f82a6d245696934c713a5be8174b1$</string>
+            <string>$TexturePacker:SmartUpdate:a2bc871a00fce64d6fb17b10ff8bb718:4f8c036fbb8fe1bace76886f7829bab9:832f82a6d245696934c713a5be8174b1$</string>
             <key>textureFileName</key>
             <string>fishMove025_3.png</string>
         </dict>
