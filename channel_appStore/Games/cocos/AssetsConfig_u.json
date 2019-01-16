@@ -1,0 +1,203 @@
+return {
+["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
+["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/AssetsConfig_u.json",
+["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/version.json",
+["version"] = "1.1.430",
+["packageSize"] = 288,
+["date"] = "20181229",
+["depends"] = {
+},
+["newDetails"] = [[]],
+["assets"] = {
+{
+	["u_name"]="Games/cocos/cocos2d/Cocos2d.lua",
+	["u_md5"]="59c79f2c1d6a1f215a767d24f6e290c9",
+	["u_size"]=10.27,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/Cocos2dConstants.lua",
+	["u_md5"]="39d41c27e7278488efb41dfd1346b3bd",
+	["u_size"]=16.19,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/DeprecatedCocos2dClass.lua",
+	["u_md5"]="7a70a1684a6fb1e4868b54eecbd49e3a",
+	["u_size"]=61.04,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/DeprecatedCocos2dEnum.lua",
+	["u_md5"]="6c97975cf6bcdf0f5b2abcaf926c306f",
+	["u_size"]=16.84,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/DeprecatedCocos2dFunc.lua",
+	["u_md5"]="f886efca751621fe2043eb0235f5ea65",
+	["u_size"]=39.23,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/DeprecatedOpenglEnum.lua",
+	["u_md5"]="616c83f6d2a1bd8972f87d98ebd0355c",
+	["u_size"]=11.94,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/DrawPrimitives.lua",
+	["u_md5"]="d6f7e64a755a63c926eda5c6da2ac480",
+	["u_size"]=12.12,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/Opengl.lua",
+	["u_md5"]="64dc1c106f64763fcc9bc895e59dc935",
+	["u_size"]=6.98,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/OpenglConstants.lua",
+	["u_md5"]="16cff160eeeb84856ca2dc2049d28be8",
+	["u_size"]=27.3,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/bitExtend.lua",
+	["u_md5"]="ac8feda1c001378a226a2359bb7ab2b2",
+	["u_size"]=1.65,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/extern.lua",
+	["u_md5"]="62830dc11202f10e08f9f550e0958f8b",
+	["u_size"]=2.54,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/json.lua",
+	["u_md5"]="d6ba8c25c4fe5714dd74d1c0a067d4b5",
+	["u_size"]=15.36,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/luaj.lua",
+	["u_md5"]="1d2722889cdbbb5b19d4fad3934aad5b",
+	["u_size"]=0.94,
+	},
+{
+	["u_name"]="Games/cocos/cocos2d/luaoc.lua",
+	["u_md5"]="92a419f723f1882b096a672c2beeba8f",
+	["u_size"]=0.89,
+	},
+{
+	["u_name"]="Games/cocos/cocosbuilder/CCBReaderLoad.lua",
+	["u_md5"]="11573e8c9a8568e7d8678d9b3cb3a5af",
+	["u_size"]=5.52,
+	},
+{
+	["u_name"]="Games/cocos/cocosbuilder/DeprecatedCocosBuilderClass.lua",
+	["u_md5"]="2021b392ff7f1684add6c2453208c5a6",
+	["u_size"]=1.14,
+	},
+{
+	["u_name"]="Games/cocos/cocosdenshion/AudioEngine.lua",
+	["u_md5"]="849e5bb02011ef7308059767a76b055b",
+	["u_size"]=2.66,
+	},
+{
+	["u_name"]="Games/cocos/cocosdenshion/DeprecatedCocosDenshionClass.lua",
+	["u_md5"]="6871a5659e302bb513709b91ae6d595b",
+	["u_size"]=0.61,
+	},
+{
+	["u_name"]="Games/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.lua",
+	["u_md5"]="342c8cecdd263e1ab4fede1adbe474b9",
+	["u_size"]=0.86,
+	},
+{
+	["u_name"]="Games/cocos/cocostudio/CocoStudio.lua",
+	["u_md5"]="998d415ab74ea7de5a034111390ee349",
+	["u_size"]=9.23,
+	},
+{
+	["u_name"]="Games/cocos/cocostudio/DeprecatedCocoStudioClass.lua",
+	["u_md5"]="9d79eeae148161beebf8fa1491e51b10",
+	["u_size"]=10.76,
+	},
+{
+	["u_name"]="Games/cocos/cocostudio/DeprecatedCocoStudioFunc.lua",
+	["u_md5"]="82cb2b4c7809bf60e4b352b78f85e1a0",
+	["u_size"]=3.42,
+	},
+{
+	["u_name"]="Games/cocos/cocostudio/StudioConstants.lua",
+	["u_md5"]="26e8fa215de0ad18882a77a7ad8a5425",
+	["u_size"]=0.11,
+	},
+{
+	["u_name"]="Games/cocos/controller/ControllerConstants.lua",
+	["u_md5"]="69f34de161fe44992d31307855ec5766",
+	["u_size"]=0.75,
+	},
+{
+	["u_name"]="Games/cocos/extension/DeprecatedExtensionClass.lua",
+	["u_md5"]="646ecec575ffcf157413b96745fd42f9",
+	["u_size"]=4.77,
+	},
+{
+	["u_name"]="Games/cocos/extension/DeprecatedExtensionEnum.lua",
+	["u_md5"]="d664912c6f1c70b7fc3fdedefa280a8a",
+	["u_size"]=1.36,
+	},
+{
+	["u_name"]="Games/cocos/extension/DeprecatedExtensionFunc.lua",
+	["u_md5"]="01064fdf91111ed216e5e8ff60fd6395",
+	["u_size"]=1.31,
+	},
+{
+	["u_name"]="Games/cocos/extension/ExtensionConstants.lua",
+	["u_md5"]="19b8144b0a68327995667e71a7ee9254",
+	["u_size"]=2.06,
+	},
+{
+	["u_name"]="Games/cocos/init.lua",
+	["u_md5"]="59bc736c6bca1d3ae319d23ad09832fb",
+	["u_size"]=1.85,
+	},
+{
+	["u_name"]="Games/cocos/network/DeprecatedNetworkClass.lua",
+	["u_md5"]="e6ba2b7bff8e20877c42ee3585ac7005",
+	["u_size"]=0.52,
+	},
+{
+	["u_name"]="Games/cocos/network/DeprecatedNetworkEnum.lua",
+	["u_md5"]="c12ae40d675c16662a2e2ac90ce3a3c6",
+	["u_size"]=0.47,
+	},
+{
+	["u_name"]="Games/cocos/network/DeprecatedNetworkFunc.lua",
+	["u_md5"]="4ad0cf725b8ad0556df7b06935d6baa7",
+	["u_size"]=1.07,
+	},
+{
+	["u_name"]="Games/cocos/network/NetworkConstants.lua",
+	["u_md5"]="611ba4e482438fd9793264c6569c316f",
+	["u_size"]=0.48,
+	},
+{
+	["u_name"]="Games/cocos/spine/SpineConstants.lua",
+	["u_md5"]="3cbda6844ab59c341f22fd8ab0302f8e",
+	["u_size"]=0.15,
+	},
+{
+	["u_name"]="Games/cocos/ui/DeprecatedUIEnum.lua",
+	["u_md5"]="160d25382c997e5ab1e7152860224e75",
+	["u_size"]=4.9,
+	},
+{
+	["u_name"]="Games/cocos/ui/DeprecatedUIFunc.lua",
+	["u_md5"]="45e2a01bc3356c649aa450d6d7632931",
+	["u_size"]=7.29,
+	},
+{
+	["u_name"]="Games/cocos/ui/GuiConstants.lua",
+	["u_md5"]="553024f5e998747468703ac8170d2e63",
+	["u_size"]=2.91,
+	},
+{
+	["u_name"]="Games/cocos/ui/experimentalUIConstants.lua",
+	["u_md5"]="a3203f68642ae4029110d0288c459e25",
+	["u_size"]=0.12,
+	},
+} 
+}

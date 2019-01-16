@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>jindabaodian09.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{759,716}</string>
+                <key>spriteSourceSize</key>
+                <string>{759,716}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{759,716}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>jindabaodian_3.png</string>
+            <key>size</key>
+            <string>{759,716}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:a0cbb40a1f6e3d5eee9bf2063ee59dd2:9dadc14601776f9ec7d67633eaf9bf5f:3a08cd8f59973d2e5d795e5aab8e9c41$</string>
+            <key>textureFileName</key>
+            <string>jindabaodian_3.png</string>
+        </dict>
+    </dict>
+</plist>

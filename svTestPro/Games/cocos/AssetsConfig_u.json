@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/version.json",
-["version"] = "1.1.403",
+["version"] = "1.1.250",
 ["packageSize"] = 288,
-["date"] = "20181227",
+["date"] = "20181108",
 ["depends"] = {
 },
 ["newDetails"] = [[]],
@@ -146,8 +146,8 @@ return {
 	},
 {
 	["u_name"]="Games/cocos/extension/ExtensionConstants.lua",
-	["u_md5"]="19b8144b0a68327995667e71a7ee9254",
-	["u_size"]=2.06,
+	["u_md5"]="df42b28dde382d9864b41c50a6b2f33f",
+	["u_size"]=2,
 	},
 {
 	["u_name"]="Games/cocos/init.lua",
