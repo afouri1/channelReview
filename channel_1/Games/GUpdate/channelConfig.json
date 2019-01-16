@@ -9,22 +9,12 @@
 		inReviewVersion  = "1.0.3",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
 	}
-	,["channelId_15"]={
-		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.3",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
 	,["channelId_18"]={
 		lastValidVersion = "1.0.0",
 		inReviewVersion  = "1.0.3",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
 	}
-	,["channelId_3"]={
-		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.3",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
-	,["channelId_6"]={
+	,["channelId_89"]={
 		lastValidVersion = "1.0.0",
 		inReviewVersion  = "1.0.3",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
@@ -41,7 +31,7 @@
 	}
 	,["channelId_11569"]={
 		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.3",
+		inReviewVersion  = "1.0.5",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_appStore/",
 	}
 }
