@@ -2,20 +2,17 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.473",
-["packageSize"] = 35142,
-["date"] = "20190121",
+["version"] = "1.1.488",
+["packageSize"] = 35503,
+["date"] = "20190123",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1.新增大厅/游戏内弹窗放大缩小效果
-2.新增推荐渔厅
-3.新增游戏内全面屏
-4.提示断线重连修复
-5.万佛朝宗资源位置修复
-6.游戏内部分异常退出修复
-7.玩家游戏内座位报错修复
-8.大厅及游戏内常规bug修复
+1.聊天广播修复
+2.俱乐部机器人问题修复
+3.背景特效全面屏修复
+4.1亿炮弹兑换码
+5.桌子人物显示不正确修复
 ]],
 ["assets"] = {} 
 }

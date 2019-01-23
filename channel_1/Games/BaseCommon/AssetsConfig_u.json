@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/BaseCommon/version.json",
-["version"] = "1.1.473",
-["packageSize"] = 1969,
-["date"] = "20190121",
+["version"] = "1.1.488",
+["packageSize"] = 1973,
+["date"] = "20190123",
 ["depends"] = {
 10002,
 10003,
@@ -18,8 +18,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/CommonFunc.lua",
-	["u_md5"]="21465287db4cd9b52d3f658cf515fb09",
-	["u_size"]=22.66,
+	["u_md5"]="a3e19f1800d5c7bcf26d52de7cc3bd69",
+	["u_size"]=23.08,
 	},
 {
 	["u_name"]="Games/BaseCommon/ErrorHandler.lua",
@@ -48,13 +48,13 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/GameNetwork/TimeServer.lua",
-	["u_md5"]="122672b3a4a681431934290e27e4bb40",
-	["u_size"]=3.24,
+	["u_md5"]="c1f53fa568811d2e85186c5c71e1f084",
+	["u_size"]=3.97,
 	},
 {
 	["u_name"]="Games/BaseCommon/GameUserData.lua",
-	["u_md5"]="dd423d3abef61316930b3a05d8a7b42c",
-	["u_size"]=28.51,
+	["u_md5"]="9fcd02a2b2a294ba336f821e65404a04",
+	["u_size"]=28.65,
 	},
 {
 	["u_name"]="Games/BaseCommon/IAP/GameiAPManager.lua",
@@ -78,8 +78,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/RichText.lua",
-	["u_md5"]="b72b53081de889c1a1888500340c5b61",
-	["u_size"]=22.69,
+	["u_md5"]="96f389bcde4fd0f39af1a5037765312f",
+	["u_size"]=24.95,
 	},
 {
 	["u_name"]="Games/BaseCommon/SearchPathManager.lua",
@@ -108,8 +108,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TYNode.lua",
-	["u_md5"]="1c36f6fa3fc04d4aee20c11ced3c018b",
-	["u_size"]=26.96,
+	["u_md5"]="e37be21519353975ae1360a47b7adcd9",
+	["u_size"]=27.21,
 	},
 {
 	["u_name"]="Games/BaseCommon/TYFramework/TaskManager.lua",
@@ -283,8 +283,8 @@ return {
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TiFunction.lua",
-	["u_md5"]="a4bde94c1de5cacc33daec0abc9b8997",
-	["u_size"]=63.41,
+	["u_md5"]="fbc71953862480c1857bb2f1f8a649db",
+	["u_size"]=63.57,
 	},
 {
 	["u_name"]="Games/BaseCommon/utils/TimeUtil.lua",
