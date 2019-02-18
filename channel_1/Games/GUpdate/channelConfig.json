@@ -1,47 +1,22 @@
 {
-	["channelId_35"]={
-		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.3",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
-	,["channelId_10000"]={
+	["channelId_10000"]={
 		lastValidVersion = "1.0.0",
 		inReviewVersion  = "1.0.3",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
 	}
 	,["channelId_18"]={
 		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.3",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
-	,["channelId_89"]={
-		lastValidVersion = "1.0.0",
 		inReviewVersion  = "1.0.5",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
 	}
-	,["channelId_27"]={
-		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.5",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
-	,["channelId_35"]={
-		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.5",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
-	,["channelId_33"]={
-		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.3",
-		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
-	}
-	,["channelId_272"]={
+	,["channelId_13"]={
 		lastValidVersion = "1.0.0",
 		inReviewVersion  = "1.0.5",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
 	}
 	,["channelId_275"]={
 		lastValidVersion = "1.0.0",
-		inReviewVersion  = "1.0.5",
+		inReviewVersion  = "1.0.0",
 		updateUrl = "http://h5.publish.1stgame.cn/fish/channelReview/channelReview/channel_1/",
 	}
 	,["channelId_11569"]={

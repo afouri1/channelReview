@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/cocos/version.json",
-["version"] = "1.1.488",
+["version"] = "1.1.527",
 ["packageSize"] = 288,
-["date"] = "20190123",
+["date"] = "20190218",
 ["depends"] = {
 },
 ["newDetails"] = [[]],
