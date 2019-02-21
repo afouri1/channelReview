@@ -2,20 +2,18 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.527",
-["packageSize"] = 12251,
+["version"] = "1.1.529",
+["packageSize"] = 12253,
 ["date"] = "20190218",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.美人鱼碰撞体积优化
-2.渔厅界面优化调整
-3.解决部分手机聊天时崩溃
-4.充值金币之后未刷新修复
-5.公告图片替换
-6.聊天/游戏内部分体验优化
+1.聊天内容不同步及优化调整
+2.服务器重启金币还原修复
+3.数据对应不上修复
+4.渠道炮弹充值添加
 ]],
 ["assets"] = {
 {
@@ -3440,8 +3438,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardInfoLayerView.lua",
-	["u_md5"]="b4f5c64702d856edbf19812395f109d1",
-	["u_size"]=36.72,
+	["u_md5"]="ff189b3e24bb9bb3d38b89878c3b1de2",
+	["u_size"]=36.7,
 	},
 {
 	["u_name"]="Games/GLobby/src/Club/GLobbyCardManageLayerMediator.lua",
@@ -3880,8 +3878,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageBottom.lua",
-	["u_md5"]="9e178e64abd2ae0c636761f54a458cc9",
-	["u_size"]=10.75,
+	["u_md5"]="a6ff60df8299415b58914c66e3467f48",
+	["u_size"]=11.36,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerMediator.lua",
@@ -3890,8 +3888,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageLayerView.lua",
-	["u_md5"]="96b1258ac49ca4677841c8578c73858d",
-	["u_size"]=87.27,
+	["u_md5"]="14046dd0fea2a23a944264ed99cecb87",
+	["u_size"]=87.48,
 	},
 {
 	["u_name"]="Games/GLobby/src/LobbyHomePage/GLobbyHomePageTop.lua",
@@ -3975,8 +3973,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/WorldChat/GLobbyWorldChatLayerView.lua",
-	["u_md5"]="834e532646584f688778dc29964f55a8",
-	["u_size"]=29.16,
+	["u_md5"]="4d062d49dac6e95eef566ef4be662946",
+	["u_size"]=29.87,
 	},
 {
 	["u_name"]="Games/GLobby/src/YaYa/Cpp2LuaGlobalFunc.lua",
@@ -4010,8 +4008,8 @@ return {
 	},
 {
 	["u_name"]="Games/GLobby/src/data/WorldChatListData.lua",
-	["u_md5"]="aa030eb41f2890e5b7a62cc605c0548d",
-	["u_size"]=5.62,
+	["u_md5"]="f2bd4b6ec6210551be4933aa825d54e5",
+	["u_size"]=5.79,
 	},
 {
 	["u_name"]="Games/GLobby/src/data/clubGiftRecordData.lua",
