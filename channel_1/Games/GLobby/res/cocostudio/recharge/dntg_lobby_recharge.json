@@ -31,7 +31,8 @@
     "Games/GLobby/res/recharge/btn_128_1.png",
     "Games/GLobby/res/recharge/btn_298_0.png",
     "Games/GLobby/res/recharge/btn_298_1.png",
-    "Games/GLobby/res/recharge/btn_1k_0.png",
+    "Games/GLobby/res/recharge/btn_4k_0.png",
+    "Games/GLobby/res/recharge/btn_4k_1.png",
     "Games/GLobby/res/recharge/btn_3k_0.png",
     "Games/GLobby/res/recharge/btn_recharge.png",
     "Games/GLobby/res/recharge/100yuan.png",
@@ -1297,7 +1298,7 @@
                     "options": {
                       "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
                       "classname": "ImageView",
-                      "name": "Image_1000_0",
+                      "name": "Image_4000_0",
                       "ZOrder": 0,
                       "actiontag": 32624562,
                       "anchorPointX": 0.5,
@@ -1335,7 +1336,7 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "Games/GLobby/res/recharge/btn_1k_0.png",
+                        "path": "Games/GLobby/res/recharge/btn_4k_0.png",
                         "plistFile": "",
                         "resourceType": 0
                       },
@@ -1351,7 +1352,7 @@
                     "options": {
                       "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
                       "classname": "ImageView",
-                      "name": "Image_1000_1",
+                      "name": "Image_4000_1",
                       "ZOrder": 0,
                       "actiontag": 54309713,
                       "anchorPointX": 0.5,
@@ -1389,7 +1390,7 @@
                       "capInsetsY": 0,
                       "fileName": null,
                       "fileNameData": {
-                        "path": "Games/GLobby/res/recharge/btn_1k_0.png",
+                        "path": "Games/GLobby/res/recharge/btn_4k_1.png",
                         "plistFile": "",
                         "resourceType": 0
                       },

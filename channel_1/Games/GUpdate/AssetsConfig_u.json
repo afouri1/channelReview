@@ -2,9 +2,9 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GUpdate/version.json",
-["version"] = "1.1.529",
-["packageSize"] = 685,
-["date"] = "20190218",
+["version"] = "1.1.561",
+["packageSize"] = 683,
+["date"] = "20190304",
 ["depends"] = {
 10001,
 },
@@ -62,8 +62,8 @@ return {
 	},
 {
 	["u_name"]="Games/GUpdate/channelConfig.json",
-	["u_md5"]="06e644a6419fe141f120826b496ace28",
-	["u_size"]=2.64,
+	["u_md5"]="6f79ad768e74cd80ff5e7764f01bf59f",
+	["u_size"]=0.72,
 	},
 {
 	["u_name"]="Games/GUpdate/res/Map_1.jpg",

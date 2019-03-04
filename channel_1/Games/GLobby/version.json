@@ -2,18 +2,16 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.529",
-["packageSize"] = 12253,
-["date"] = "20190218",
+["version"] = "1.1.561",
+["packageSize"] = 16286,
+["date"] = "20190304",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1.聊天内容不同步及优化调整
-2.服务器重启金币还原修复
-3.数据对应不上修复
-4.渠道炮弹充值添加
+1.赠送渔厅V币不到账修复
+2.常见bug修复
 ]],
 ["assets"] = {} 
 }

@@ -2,12 +2,14 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.529",
-["packageSize"] = 36779,
-["date"] = "20190218",
+["version"] = "1.1.561",
+["packageSize"] = 38754,
+["date"] = "20190304",
 ["depends"] = {
 },
-["newDetails"] = [[
+["newDetails"] = [[版本更新内容：
+1.赠送渔厅V币不到账修复
+2.常见bug修复
 ]],
 ["assets"] = {
 {
@@ -341,6 +343,56 @@ return {
 	["u_size"]=175.12,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation.ExportJson",
+	["u_md5"]="7a6dd8ac85d9a9bf93fdfa0fa9ac9941",
+	["u_size"]=21.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation0.plist",
+	["u_md5"]="3a332d0d2b28acf7220fc3f594054635",
+	["u_size"]=2.73,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation0.png",
+	["u_md5"]="9fb41f5db05f3b626ab1e1107f203c4d",
+	["u_size"]=323.02,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation1.plist",
+	["u_md5"]="16cc0fba091884969491695f6fef4b76",
+	["u_size"]=1.89,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation/SYYLAnimation1.png",
+	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
+	["u_size"]=260.67,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation.ExportJson",
+	["u_md5"]="63414ac963362542022cead47eb0f122",
+	["u_size"]=21.91,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation0_1.plist",
+	["u_md5"]="65b7ad1510653537223c638c418081d4",
+	["u_size"]=2.74,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation0_1.png",
+	["u_md5"]="217956d1027518542c32e43bd14366c5",
+	["u_size"]=323.88,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation1_1.plist",
+	["u_md5"]="12909272b7a87bdc30ba7e70c6949abf",
+	["u_size"]=1.9,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/SYYLAnimation10/SYYLAnimation/SYYLAnimation1_1.png",
+	["u_md5"]="161a2b5aabe687a8f549cc66dfa3a995",
+	["u_size"]=260.67,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/effect/coinAniBig.plist",
 	["u_md5"]="ffb5cc05025c90bdb2c7acd2be2a1540",
 	["u_size"]=10.81,
@@ -469,6 +521,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/effect/hongzidan.png",
 	["u_md5"]="4d9383f22672dbf9140bbb2cbea432c2",
 	["u_size"]=17.84,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/effect/img_shiyongyulei.png",
+	["u_md5"]="79f25311a5f584cd07ed0bfe91593d87",
+	["u_size"]=4.2,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/effect/lanbaozha.plist",
@@ -2116,6 +2173,11 @@ return {
 	["u_size"]=2.71,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/gameUi/btn_xiaoxi.png",
+	["u_md5"]="1003571c6812aec799715f8a52b0c1c2",
+	["u_size"]=4.28,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/gameUi/coinbg.png",
 	["u_md5"]="e2a0bbc16b7dee7e9d0f36b78b84fd01",
 	["u_size"]=3.82,
@@ -2184,6 +2246,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameUi/listBg.png",
 	["u_md5"]="e0336dc847cacc21f42334c05af13f33",
 	["u_size"]=5.54,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameUi/listBg2.png",
+	["u_md5"]="0d85882590ea93d825d6fd8e4e230380",
+	["u_size"]=24.4,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/load/dntgtest_Loading_bg.jpg",
@@ -2554,6 +2621,151 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameUi/zuanpan.png",
 	["u_md5"]="df6e224af67a6137fae380b6776ee619",
 	["u_size"]=15.08,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/bg.png",
+	["u_md5"]="b8622617aa2746a785efbbbbc6f245f7",
+	["u_size"]=135.27,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/close.png",
+	["u_md5"]="d74cef52ae3d2222eccf7e67f45e3c4d",
+	["u_size"]=3.64,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/dashengjiang.png",
+	["u_md5"]="baa8620e10ab03f05a8abf8a2a4fe64f",
+	["u_size"]=4.05,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/dntg_JackPot.json",
+	["u_md5"]="c0a6c45456f8389c3159f720618af1cd",
+	["u_size"]=87.27,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_1.png",
+	["u_md5"]="9ba083ea90d2fa8e9b2da0e0daa47fb7",
+	["u_size"]=29.48,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_2.png",
+	["u_md5"]="608e196bf5aec6a74832f183ed61dc0a",
+	["u_size"]=29.9,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_3.png",
+	["u_md5"]="0400462187ea7c245450977d6e6734ee",
+	["u_size"]=30.06,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/awardSp_4.png",
+	["u_md5"]="d9a845847bb53a61ab27f05c2119eeb6",
+	["u_size"]=30.1,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/img_1.png",
+	["u_md5"]="d43e1215d6a654075fe298ae407e3c8c",
+	["u_size"]=100.11,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/zhongjiangjinbi.plist",
+	["u_md5"]="1946163654b249cae17301151b40295c",
+	["u_size"]=2.61,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/getAward/zhongjiangjinbi.png",
+	["u_md5"]="9699963d180afd46f466c0011b9db74a",
+	["u_size"]=86.28,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico.png",
+	["u_md5"]="48023cb99b2463efb04a436a63300717",
+	["u_size"]=0.59,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_dasheng1.png",
+	["u_md5"]="9f11e85f2456989dd7872be38171047d",
+	["u_size"]=2.4,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_dasheng2.png",
+	["u_md5"]="c8f6bf8fad525fd112723e9f5b0d6087",
+	["u_size"]=9.67,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_nezha1.png",
+	["u_md5"]="b83e6218722c37eec76a204f361e3c49",
+	["u_size"]=2.42,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_nezha2.png",
+	["u_md5"]="6234fe41c9d862bfb33c6c0a3feb4100",
+	["u_size"]=9.35,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_renyu1.png",
+	["u_md5"]="c298c34e22fb8eb4b882be6fc09ad5d1",
+	["u_size"]=2.37,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_renyu2.png",
+	["u_md5"]="5c5083b017212f20071ee84b96757626",
+	["u_size"]=9.63,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_wenhao.png",
+	["u_md5"]="8db2d23b6869392fc64df638dd19190a",
+	["u_size"]=7.98,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_yudi1.png",
+	["u_md5"]="fdc26f9987c9050d0412bb197ebee289",
+	["u_size"]=2.41,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/ico_yudi2.png",
+	["u_md5"]="4612602376719f9219bbf4d84aca05b3",
+	["u_size"]=10.02,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/img_jackpot.png",
+	["u_md5"]="17986d4dc7c65e9e7dfb4c3997f400d6",
+	["u_size"]=11.78,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/kuang.png",
+	["u_md5"]="c0b559bc923d0eb91987e05e5dfb5d69",
+	["u_size"]=2.24,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/nezhajiang.png",
+	["u_md5"]="2a49ff95316c2d0531f98cf0e9cafc52",
+	["u_size"]=4.2,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/num_jackpot.png",
+	["u_md5"]="3094f71537fe20e10874401ed4ac781a",
+	["u_size"]=18.42,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/renyujiang.png",
+	["u_md5"]="2983387b0bdd31b11033700d39f56d36",
+	["u_size"]=3.95,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/shuoming.png",
+	["u_md5"]="f6aaa6e5e292d2e8497c73dd32324d82",
+	["u_size"]=51.09,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/xuanzhongkuang.png",
+	["u_md5"]="49b758660c85c0fc9415513f563fe686",
+	["u_size"]=3.42,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/jackpot/yudijiang.png",
+	["u_md5"]="b2df678328bda77ca3d063749b93b7d7",
+	["u_size"]=3.97,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/lock/autoShootBtn01.png",
@@ -3467,8 +3679,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="7f4fabd66a5674e389954ab77aa6b737",
-	["u_size"]=55.1,
+	["u_md5"]="51b70c163e1e4575f1434be19edb7cff",
+	["u_size"]=57.5,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -3502,8 +3714,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerMediator.lua",
-	["u_md5"]="38ce09db381682242f33987cffff2598",
-	["u_size"]=10.66,
+	["u_md5"]="77de0626247ee53c4dcd9a8b52386e9e",
+	["u_size"]=16.74,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEffectLayer/GEffectLayerView.lua",
@@ -3527,8 +3739,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GFishView.lua",
-	["u_md5"]="297456499bf125911196b060b945083a",
-	["u_size"]=16.68,
+	["u_md5"]="f1e4635c3e894b6e7dc38854bb148fb9",
+	["u_size"]=16.62,
 	},
 {
 	["u_name"]="Games/GDntg/src/GEntity/GNetMediator.lua",
@@ -3597,13 +3809,23 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GExchangeGoldMediator.lua",
-	["u_md5"]="2896333b7b158a1587991e34d572716b",
-	["u_size"]=4.03,
+	["u_md5"]="cb7ca97ed191635d814ec0049f4c8c86",
+	["u_size"]=3.8,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GExchangeGoldView.lua",
-	["u_md5"]="4eded01f7ae56f110790bc46925649b3",
-	["u_size"]=5.81,
+	["u_md5"]="64b4997dcb40b6adb05c36bd7d1b72e5",
+	["u_size"]=5.93,
+	},
+{
+	["u_name"]="Games/GDntg/src/GHelper/GJackpotMediator.lua",
+	["u_md5"]="b80bc6cecf71465d7dbb005411a0d0cd",
+	["u_size"]=0.62,
+	},
+{
+	["u_name"]="Games/GDntg/src/GHelper/GJackpotView.lua",
+	["u_md5"]="165d38660a0529ebce12d1fb5a007c20",
+	["u_size"]=12.94,
 	},
 {
 	["u_name"]="Games/GDntg/src/GHelper/GLockMediator.lua",
@@ -3627,13 +3849,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerMediator.lua",
-	["u_md5"]="16fdccd0445993513dbc3070f57dbc8c",
-	["u_size"]=21.63,
+	["u_md5"]="3c05639ff7c304d247f3c6ed2b2a9cd1",
+	["u_size"]=21.76,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="a25e511f947458cbeb376bf8a99480f5",
-	["u_size"]=30.96,
+	["u_md5"]="384ccc9d64dc9e7659fc8cba4cae1868",
+	["u_size"]=31.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
@@ -3707,13 +3929,13 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerMediator.lua",
-	["u_md5"]="c8129ca39b66a9d353801ffdf30c9dbb",
-	["u_size"]=0.88,
+	["u_md5"]="87a486e2549834c41c157adbb55c5ad3",
+	["u_size"]=1.18,
 	},
 {
 	["u_name"]="Games/GDntg/src/GUILayer/GUILayerView.lua",
-	["u_md5"]="2b4d7287414eac44cbe4b0913f28170c",
-	["u_size"]=18.28,
+	["u_md5"]="11dd77abbfda38d786f6d95f894d57c7",
+	["u_size"]=19.69,
 	},
 {
 	["u_name"]="Games/GDntg/src/GameConst/DntgEvent.lua",
@@ -3727,8 +3949,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/NetworkConfig/DntgNetworkCmd.lua",
-	["u_md5"]="cd67837de957b4cf8beab3872d7e6f36",
-	["u_size"]=8.75,
+	["u_md5"]="24570c782ccd559ac1852c976be1637f",
+	["u_size"]=9.79,
 	},
 {
 	["u_name"]="Games/GDntg/src/ScriptConfig.lua",
@@ -3767,8 +3989,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GPlayerData.lua",
-	["u_md5"]="160df2d6ac7496957d4ccf52d46b65bf",
-	["u_size"]=7.57,
+	["u_md5"]="f5f95f764c025b7cff6b831a07ecbdb6",
+	["u_size"]=7.88,
 	},
 {
 	["u_name"]="Games/GDntg/src/game/GServerSimulation.lua",
@@ -3782,18 +4004,18 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_Cmd.pb",
-	["u_md5"]="5bc6b84651838ca37cfdcf13d99dbeee",
-	["u_size"]=1.01,
+	["u_md5"]="52d5855246f43a6f6978178afa4541fd",
+	["u_size"]=1.16,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_c2s.pb",
-	["u_md5"]="f9f8c0a6e5b79a0697850cc6e1f8f7a3",
-	["u_size"]=0.67,
+	["u_md5"]="6fa9ecc8e62fdd661e4ab7cdb692e38c",
+	["u_size"]=0.71,
 	},
 {
 	["u_name"]="Games/GDntg/src/pb/dntg_s2c.pb",
-	["u_md5"]="3bf456663ad077570d268966331dee2a",
-	["u_size"]=2.61,
+	["u_md5"]="06ec9cd4c94d811f35dd700cf2ecae89",
+	["u_size"]=2.91,
 	},
 {
 	["u_name"]="Games/GDntg/src/sound/AudioManager.lua",
