@@ -2,16 +2,13 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.613",
-["packageSize"] = 44510,
-["date"] = "20190319",
+["version"] = "1.1.618",
+["packageSize"] = 44527,
+["date"] = "20190321",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1、修复渔厅图标覆盖问题
-2、修复红点显示错误问题
-3、修复部分包体登陆失败问题
-4、申请渔厅无需批准，将直接跳转渔厅列表
+1、修复已知bug
 ]],
 ["assets"] = {} 
 }

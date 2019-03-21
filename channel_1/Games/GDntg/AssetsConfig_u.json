@@ -2,16 +2,13 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.613",
-["packageSize"] = 44510,
-["date"] = "20190319",
+["version"] = "1.1.618",
+["packageSize"] = 44527,
+["date"] = "20190321",
 ["depends"] = {
 },
 ["newDetails"] = [[版本更新内容：
-1、修复渔厅图标覆盖问题
-2、修复红点显示错误问题
-3、修复部分包体登陆失败问题
-4、申请渔厅无需批准，将直接跳转渔厅列表
+1、修复已知bug
 ]],
 ["assets"] = {
 {
@@ -1525,6 +1522,11 @@ return {
 	["u_size"]=14.46,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/fontNum/numgs.png",
+	["u_md5"]="1b3345daf969de0ecb3b68650508e855",
+	["u_size"]=3.87,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/fontNum/paozhinum.png",
 	["u_md5"]="9495ea3916b576318f0ffa023d0922fc",
 	["u_size"]=4.54,
@@ -2345,6 +2347,11 @@ return {
 	["u_size"]=180.54,
 	},
 {
+	["u_name"]="Games/GDntg/res/game/gameUi/jifen.png",
+	["u_md5"]="6d312d3f3ac4a00b83061b92ba9582cb",
+	["u_size"]=1.85,
+	},
+{
 	["u_name"]="Games/GDntg/res/game/gameUi/listBg.png",
 	["u_md5"]="e0336dc847cacc21f42334c05af13f33",
 	["u_size"]=5.54,
@@ -2433,6 +2440,11 @@ return {
 	["u_name"]="Games/GDntg/res/game/gameUi/playeruibg.png",
 	["u_md5"]="29c5f9469f9fb3040beae0afe4a7acd9",
 	["u_size"]=4.4,
+	},
+{
+	["u_name"]="Games/GDntg/res/game/gameUi/playeruibgh.png",
+	["u_md5"]="394895c7aa729623ddc1000f05b7b281",
+	["u_size"]=5.71,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/setting/bgshezhi.png",
@@ -3981,8 +3993,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/DntgGame.lua",
-	["u_md5"]="71f7579416f00e61617fbc455b5981df",
-	["u_size"]=65.5,
+	["u_md5"]="fac7fe137ffd59bd401d4992528c6068",
+	["u_size"]=69.89,
 	},
 {
 	["u_name"]="Games/GDntg/src/Dntg_Root.lua",
@@ -4156,8 +4168,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GOnePlayerView.lua",
-	["u_md5"]="3dd665a90712344d500a557f33ba1d08",
-	["u_size"]=33.83,
+	["u_md5"]="5b400ed413081d65b1d36330499a7d36",
+	["u_size"]=34.72,
 	},
 {
 	["u_name"]="Games/GDntg/src/GPlayer/GPlayerMediator.lua",
