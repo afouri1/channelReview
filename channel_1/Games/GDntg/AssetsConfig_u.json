@@ -2,8 +2,8 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GDntg/version.json",
-["version"] = "1.1.618",
-["packageSize"] = 44527,
+["version"] = "1.1.619",
+["packageSize"] = 44552,
 ["date"] = "20190321",
 ["depends"] = {
 },
@@ -2343,8 +2343,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/fishdec/texiaoyudes.png",
-	["u_md5"]="0b9ee7cf2a54d7d3dcd49bbc06d627f7",
-	["u_size"]=180.54,
+	["u_md5"]="d26dcd233664f2b349e82f3bf729bc5c",
+	["u_size"]=196.84,
 	},
 {
 	["u_name"]="Games/GDntg/res/game/gameUi/jifen.png",
@@ -3908,8 +3908,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish.lua",
-	["u_md5"]="769b36f4bcf0226fdc315b38f47d22bd",
-	["u_size"]=33.31,
+	["u_md5"]="fc7311f69a57c578792bc9c49d28e693",
+	["u_size"]=40.9,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/Fish1.lua",
@@ -3958,8 +3958,8 @@ return {
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/collision.lua",
-	["u_md5"]="3a3084d46263b0bc692af132e8c76f85",
-	["u_size"]=10.19,
+	["u_md5"]="a57043f959070b541ea882e2f45047f0",
+	["u_size"]=11.14,
 	},
 {
 	["u_name"]="Games/GDntg/src/Configs/correctfactor.lua",
