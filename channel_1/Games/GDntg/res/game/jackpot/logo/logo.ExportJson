@@ -233,7 +233,7 @@
         {
           "name": "huo",
           "parent": "",
-          "dI": 7,
+          "dI": 0,
           "x": -5.9604644775390625E-08,
           "y": 15.7692289352417,
           "z": 7,
@@ -473,105 +473,9 @@
           ]
         },
         {
-          "name": "jack",
-          "parent": "",
-          "dI": 0,
-          "x": 0.0,
-          "y": 58.0,
-          "z": 6,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": true,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "1.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "jinbi2",
-          "parent": "",
-          "dI": 0,
-          "x": -109.41176605224609,
-          "y": 35.0,
-          "z": 5,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": true,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "3.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "jinbi1",
-          "parent": "",
-          "dI": 0,
-          "x": 110.0,
-          "y": 40.0,
-          "z": 4,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": true,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "2.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "dishaoguang",
           "parent": "",
-          "dI": 15,
+          "dI": 0,
           "x": 0.0,
           "y": 0.0,
           "z": 3,
@@ -940,38 +844,6 @@
           "display_data": [
             {
               "name": "5.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "4",
-          "parent": "",
-          "dI": 0,
-          "x": 0.0,
-          "y": 60.0,
-          "z": 1,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": -1.9073486328125E-06,
-          "arrow_y": -1.7741695046424866E-06,
-          "effectbyskeleton": true,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "4.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -1556,7 +1428,7 @@
               "dl": 0.0,
               "frame_data": [
                 {
-                  "dI": 2,
+                  "dI": 0,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -1796,7 +1668,7 @@
                   "bd_dst": 771
                 },
                 {
-                  "dI": 15,
+                  "dI": 0,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -1805,69 +1677,6 @@
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 32,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "bd_src": 1,
-                  "bd_dst": 771
-                }
-              ]
-            },
-            {
-              "name": "jack",
-              "dl": 0.0,
-              "frame_data": [
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 0,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "bd_src": 1,
-                  "bd_dst": 771
-                }
-              ]
-            },
-            {
-              "name": "jinbi2",
-              "dl": 0.0,
-              "frame_data": [
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 0,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "bd_src": 1,
-                  "bd_dst": 771
-                }
-              ]
-            },
-            {
-              "name": "jinbi1",
-              "dl": 0.0,
-              "frame_data": [
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 0,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -2297,27 +2106,6 @@
                   "bd_dst": 771
                 }
               ]
-            },
-            {
-              "name": "4",
-              "dl": 0.0,
-              "frame_data": [
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 0,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "bd_src": 1,
-                  "bd_dst": 771
-                }
-              ]
             }
           ]
         }
@@ -2326,41 +2114,9 @@
   ],
   "texture_data": [
     {
-      "name": "1",
-      "width": 234.0,
-      "height": 118.0,
-      "pX": 0.5,
-      "pY": 0.5,
-      "plistFile": ""
-    },
-    {
       "name": "5",
       "width": 304.0,
       "height": 57.0,
-      "pX": 0.5,
-      "pY": 0.5,
-      "plistFile": ""
-    },
-    {
-      "name": "2",
-      "width": 84.0,
-      "height": 84.0,
-      "pX": 0.5,
-      "pY": 0.5,
-      "plistFile": ""
-    },
-    {
-      "name": "3",
-      "width": 83.0,
-      "height": 90.0,
-      "pX": 0.5,
-      "pY": 0.5,
-      "plistFile": ""
-    },
-    {
-      "name": "4",
-      "width": 293.0,
-      "height": 131.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
@@ -2415,8 +2171,8 @@
     },
     {
       "name": "huo/mj_fire_07",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 736.0,
+      "height": 85.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
@@ -2743,13 +2499,9 @@
     }
   ],
   "config_file_path": [
-    "logo0.plist",
-    "logo1.plist",
-    "logo2.plist"
+    "logo0.plist"
   ],
   "config_png_path": [
-    "logo0.png",
-    "logo1.png",
-    "logo2.png"
+    "logo0.png"
   ]
 }

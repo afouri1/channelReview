@@ -167,9 +167,9 @@
 				<key>originalHeight</key>
 				<integer>85</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>985</integer>
 				<key>y</key>
-				<integer>87</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -188,7 +188,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>174</integer>
+				<integer>87</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -205,9 +205,9 @@
 				<key>originalHeight</key>
 				<integer>85</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>738</integer>
 				<key>y</key>
-				<integer>261</integer>
+				<integer>87</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -226,7 +226,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>348</integer>
+				<integer>174</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -243,9 +243,9 @@
 				<key>originalHeight</key>
 				<integer>85</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>738</integer>
 				<key>y</key>
-				<integer>435</integer>
+				<integer>174</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -264,7 +264,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>522</integer>
+				<integer>261</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -281,9 +281,9 @@
 				<key>originalHeight</key>
 				<integer>85</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>738</integer>
 				<key>y</key>
-				<integer>609</integer>
+				<integer>261</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -302,7 +302,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>696</integer>
+				<integer>348</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -319,9 +319,9 @@
 				<key>originalHeight</key>
 				<integer>85</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>738</integer>
 				<key>y</key>
-				<integer>783</integer>
+				<integer>348</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -340,7 +340,102 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>870</integer>
+				<integer>435</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>huo/mj_fire_12.png</key>
+			<dict>
+				<key>width</key>
+				<integer>736</integer>
+				<key>height</key>
+				<integer>85</integer>
+				<key>originalWidth</key>
+				<integer>736</integer>
+				<key>originalHeight</key>
+				<integer>85</integer>
+				<key>x</key>
+				<integer>738</integer>
+				<key>y</key>
+				<integer>435</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>huo/mj_fire_13.png</key>
+			<dict>
+				<key>width</key>
+				<integer>736</integer>
+				<key>height</key>
+				<integer>85</integer>
+				<key>originalWidth</key>
+				<integer>736</integer>
+				<key>originalHeight</key>
+				<integer>85</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>522</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>huo/mj_fire_14.png</key>
+			<dict>
+				<key>width</key>
+				<integer>736</integer>
+				<key>height</key>
+				<integer>85</integer>
+				<key>originalWidth</key>
+				<integer>736</integer>
+				<key>originalHeight</key>
+				<integer>85</integer>
+				<key>x</key>
+				<integer>738</integer>
+				<key>y</key>
+				<integer>522</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>huo/mj_fire_15.png</key>
+			<dict>
+				<key>width</key>
+				<integer>736</integer>
+				<key>height</key>
+				<integer>85</integer>
+				<key>originalWidth</key>
+				<integer>736</integer>
+				<key>originalHeight</key>
+				<integer>85</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>609</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>huo/mj_fire_16.png</key>
+			<dict>
+				<key>width</key>
+				<integer>736</integer>
+				<key>height</key>
+				<integer>85</integer>
+				<key>originalWidth</key>
+				<integer>736</integer>
+				<key>originalHeight</key>
+				<integer>85</integer>
+				<key>x</key>
+				<integer>738</integer>
+				<key>y</key>
+				<integer>609</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -357,9 +452,9 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>1476</integer>
 				<key>y</key>
-				<integer>957</integer>
+				<integer>609</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -376,9 +471,9 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
-				<integer>306</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>957</integer>
+				<integer>696</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -395,9 +490,408 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
+				<integer>306</integer>
+				<key>y</key>
+				<integer>696</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0004.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
 				<integer>612</integer>
 				<key>y</key>
-				<integer>957</integer>
+				<integer>696</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0005.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>918</integer>
+				<key>y</key>
+				<integer>696</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0006.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1224</integer>
+				<key>y</key>
+				<integer>696</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0007.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1530</integer>
+				<key>y</key>
+				<integer>696</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0008.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>755</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0009.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>306</integer>
+				<key>y</key>
+				<integer>755</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0010.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>612</integer>
+				<key>y</key>
+				<integer>755</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0011.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>918</integer>
+				<key>y</key>
+				<integer>755</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0012.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1224</integer>
+				<key>y</key>
+				<integer>755</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0013.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1530</integer>
+				<key>y</key>
+				<integer>755</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0014.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>814</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0015.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>306</integer>
+				<key>y</key>
+				<integer>814</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0016.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>612</integer>
+				<key>y</key>
+				<integer>814</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0017.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>918</integer>
+				<key>y</key>
+				<integer>814</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0018.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1224</integer>
+				<key>y</key>
+				<integer>814</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0019.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1530</integer>
+				<key>y</key>
+				<integer>814</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0020.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>873</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0021.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>306</integer>
+				<key>y</key>
+				<integer>873</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0022.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>612</integer>
+				<key>y</key>
+				<integer>873</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0023.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>918</integer>
+				<key>y</key>
+				<integer>873</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jp/jackpot0024.png</key>
+			<dict>
+				<key>width</key>
+				<integer>304</integer>
+				<key>height</key>
+				<integer>57</integer>
+				<key>originalWidth</key>
+				<integer>304</integer>
+				<key>originalHeight</key>
+				<integer>57</integer>
+				<key>x</key>
+				<integer>1224</integer>
+				<key>y</key>
+				<integer>873</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -413,14 +907,14 @@
 			<key>realTextureFileName</key>
 			<string>logo0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

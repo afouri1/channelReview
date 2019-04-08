@@ -2,15 +2,20 @@ return {
 ["packageUrl"] = "http://127.0.0.1/dashboard/dntg/",
 ["remoteManifestUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/AssetsConfig_u.json",
 ["remoteVersionUrl"] = "http://127.0.0.1/dashboard/dntg/Games/GLobby/version.json",
-["version"] = "1.1.619",
-["packageSize"] = 21905,
-["date"] = "20190321",
+["version"] = "1.1.657",
+["packageSize"] = 23300,
+["date"] = "20190408",
 ["depends"] = {
 10001,
 1001,
 },
 ["newDetails"] = [[版本更新内容：
-1、修复已知bug
+1、开放椰子积分商城，大家可以兑换心仪的实物话费了
+2、新增首充大礼包，全面回馈忠实玩家
+3、新增救济金，为您全方位保驾护航
+4、新增排行榜，让您脱颖而出
+5、大厅按钮调整
+6、苹果包新增渔厅图标自定义功能
 ]],
 ["assets"] = {} 
 }
