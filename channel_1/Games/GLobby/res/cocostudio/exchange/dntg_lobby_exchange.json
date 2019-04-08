@@ -12,9 +12,9 @@
   "textures": [],
   "texturesPng": [
     "Games/GLobby/res/exchange/bg.png",
+    "Games/GLobby/res/exchange/img3.png",
     "Games/GLobby/res/exchange/img1.png",
     "Games/GLobby/res/exchange/img2.png",
-    "Games/GLobby/res/exchange/img3.png",
     "Games/GLobby/res/exchange/button_qwsc.png",
     "Games/GLobby/res/exchange/button_qwyx.png",
     "Games/GLobby/res/club/memberManage/img_close.png"
@@ -128,7 +128,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 687,
+              "width": 685,
               "x": 0,
               "y": 0,
               "capInsetsHeight": 2,
@@ -143,7 +143,7 @@
               },
               "scale9Enable": false,
               "scale9Height": 834,
-              "scale9Width": 687
+              "scale9Width": 685
             }
           },
           {
@@ -169,7 +169,7 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": -0.103209317,
+              "positionPercentX": -0.0973869,
               "positionPercentY": 0.181055143,
               "positionType": 0,
               "rotation": 0,
@@ -183,7 +183,7 @@
               "useMergedTexture": false,
               "visible": true,
               "width": 0,
-              "x": -70,
+              "x": -66,
               "y": 150,
               "charMapFile": null,
               "charMapFileData": {
@@ -192,7 +192,7 @@
                 "resourceType": 0
               },
               "itemHeight": 46,
-              "itemWidth": 38,
+              "itemWidth": 30,
               "startCharMap": "+",
               "stringValue": ""
             }
@@ -242,7 +242,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/exchange/img1.png",
+                "path": "Games/GLobby/res/exchange/img3.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -296,7 +296,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/exchange/img2.png",
+                "path": "Games/GLobby/res/exchange/img1.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -350,7 +350,7 @@
               "capInsetsY": 0,
               "fileName": null,
               "fileNameData": {
-                "path": "Games/GLobby/res/exchange/img3.png",
+                "path": "Games/GLobby/res/exchange/img2.png",
                 "plistFile": "",
                 "resourceType": 0
               },
